@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MrBouchtaoui
-- 👀 I’m interested in software development, technology, philosophy
-- 🌱 I’m teaching you adults at school
+- 👀 I’m interested in software development, technology and philosophy
+- 🌱 I’m teaching young adults at school
 - 💞️ I’m looking to collaborate with other teachers
 - 📫 Just post an issue
 
